@@ -1,0 +1,253 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				},
+				{
+					"build" : "_deps/googletest-build",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-_deps.googletest-build-Debug-ded26adebee9516e95c3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "cmake-build-debug/_deps/googletest-src"
+				},
+				{
+					"build" : "_deps/googletest-build/googletest",
+					"jsonFile" : "directory-_deps.googletest-build.googletest-Debug-608ffc11d32888294ae4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "cmake-build-debug/_deps/googletest-src/googletest",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "_deps/benchmark-build",
+					"childIndexes" : 
+					[
+						4
+					],
+					"jsonFile" : "directory-_deps.benchmark-build-Debug-b1c1c5eec3be37f60fff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "cmake-build-debug/_deps/benchmark-src"
+				},
+				{
+					"build" : "_deps/benchmark-build/src",
+					"jsonFile" : "directory-_deps.benchmark-build.src-Debug-7cf8139588ed2f305693.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "cmake-build-debug/_deps/benchmark-src/src",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hw1",
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "gtest",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3,
+						4
+					],
+					"name" : "benchmark",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "benchmark::@2fa91c1ea4e05cbc4511",
+					"jsonFile" : "target-benchmark-Debug-0df2b0bb678254fa4194.json",
+					"name" : "benchmark",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "benchmark_main::@2fa91c1ea4e05cbc4511",
+					"jsonFile" : "target-benchmark_main-Debug-67a47d8e2f088408edfd.json",
+					"name" : "benchmark_main",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gtest::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest-Debug-99745fc040870c725dac.json",
+					"name" : "gtest",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gtest_main::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest_main-Debug-317c927e47c03bbbc823.json",
+					"name" : "gtest_main",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task0-exponentiation-binary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task0-exponentiation-binary-Debug-d95ba6e501b84a7c6cb6.json",
+					"name" : "task0-exponentiation-binary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task0-exponentiation-naive::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task0-exponentiation-naive-Debug-6f61cdf13bcf677cc00f.json",
+					"name" : "task0-exponentiation-naive",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task1-num-multiplication-grade-school::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task1-num-multiplication-grade-school-Debug-b9672c867906eb260234.json",
+					"name" : "task1-num-multiplication-grade-school",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task1-num-multiplication-karatsuba::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task1-num-multiplication-karatsuba-Debug-de5d0bbac71a3baa4744.json",
+					"name" : "task1-num-multiplication-karatsuba",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task2-matrix-multiplication-row-column::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task2-matrix-multiplication-row-column-Debug-0f4619043cf3a31a23b7.json",
+					"name" : "task2-matrix-multiplication-row-column",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task2-matrix-multiplication-row-column-with-bT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task2-matrix-multiplication-row-column-with-bT-Debug-ee87832a26c925f37d60.json",
+					"name" : "task2-matrix-multiplication-row-column-with-bT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task2-matrix-multiplication-strassen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task2-matrix-multiplication-strassen-Debug-3d16dd37e5caafae1123.json",
+					"name" : "task2-matrix-multiplication-strassen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug",
+		"source" : "C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

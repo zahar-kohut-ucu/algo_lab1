@@ -1,0 +1,21 @@
+# ninja log v5
+2	573	7181491196976628	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	21612061e8d2778e
+2	573	7181491196976628	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	21612061e8d2778e
+574	4481	7181491236101749	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	54efe5ffb49b60a3
+574	4481	7181491236101749	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	54efe5ffb49b60a3
+4482	4631	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	3e4d9c481c70510c
+4482	4631	0	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	3e4d9c481c70510c
+4631	4692	7181491238201425	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	1677b889f43ead3e
+4631	4692	7181491238201425	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	1677b889f43ead3e
+4692	4761	7181491238895256	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	b5910519c1db1c86
+4692	4761	7181491238895256	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	b5910519c1db1c86
+4761	4825	7181491239553434	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	8469d05300354b3c
+4761	4825	7181491239553434	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	8469d05300354b3c
+4826	4887	7181491240166424	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	88c2ed8dbf40e98c
+4826	4887	7181491240166424	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	88c2ed8dbf40e98c
+4887	4946	7181491240766978	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	3ad6747194efab31
+4887	4946	7181491240766978	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	3ad6747194efab31
+4946	5030	7181491241600313	CMakeFiles/googletest-populate-complete	6363bef11408dbe8
+4946	5030	7181491241600313	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	6363bef11408dbe8
+4946	5030	7181491241600313	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	6363bef11408dbe8
+4946	5030	7181491241600313	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	6363bef11408dbe8

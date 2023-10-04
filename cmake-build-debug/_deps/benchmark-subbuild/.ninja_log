@@ -1,0 +1,21 @@
+# ninja log v5
+1	68	7181491272295146	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-mkdir	de13ff6eecb4bc98
+1	68	7181491272295146	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-mkdir	de13ff6eecb4bc98
+69	2187	7181491293492854	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-download	27070883394c5443
+69	2187	7181491293492854	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-download	27070883394c5443
+2188	2322	0	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-update	6272a203952f9a41
+2188	2322	0	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-update	6272a203952f9a41
+2322	2376	7181491295374553	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-patch	18268387eaf94d42
+2322	2376	7181491295374553	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-patch	18268387eaf94d42
+2376	2432	7181491295942312	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-configure	9881562e2e596ee9
+2376	2432	7181491295942312	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-configure	9881562e2e596ee9
+2432	2489	7181491296503490	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-build	1d2eb1f3579bc409
+2432	2489	7181491296503490	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-build	1d2eb1f3579bc409
+2489	2546	7181491297085755	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-install	ac5b487877d95060
+2489	2546	7181491297085755	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-install	ac5b487877d95060
+2546	2603	7181491297648337	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-test	5edd322c5d9deca2
+2546	2603	7181491297648337	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-test	5edd322c5d9deca2
+2603	2679	7181491298409030	CMakeFiles/benchmark-populate-complete	5ba5c1649f19a1ad
+2603	2679	7181491298409030	benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-done	5ba5c1649f19a1ad
+2603	2679	7181491298409030	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/benchmark-subbuild/CMakeFiles/benchmark-populate-complete	5ba5c1649f19a1ad
+2603	2679	7181491298409030	C:/Users/zahar/OneDrive/UCU/2_year/Algos/algo_lab1/cmake-build-debug/_deps/benchmark-subbuild/benchmark-populate-prefix/src/benchmark-populate-stamp/benchmark-populate-done	5ba5c1649f19a1ad
